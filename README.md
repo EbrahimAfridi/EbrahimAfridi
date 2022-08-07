@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EbrahimAfridi
-- ## Google Developer Student Club Core Member
+- # Google Developer Student Club Core Member
 - 📫 How to reach me Instagram @ebrahim.afridi12
 - 👀 I’m interested in startups and entrepreneurship
 - 🌱 I’m currently learning to code I'm a computer science student
