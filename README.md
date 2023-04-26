@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @EbrahimAfridi
+- [🔗 Linktree](https://linktr.ee/ebrahimafridi)
 - ⭐ Google Developer Student Club Tech Lead
 - 🖐🏻 Community name Pardhai Likhai 
 - 📫 How to reach me Instagram @ebrahim.afridi12
